@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - created about page
 -inserted pictures on every page in the web page
 -inserted bold fixes
-
+ 
 
 # Roberto Rutherford 1 - 09/27/2020
  - Setup repository
