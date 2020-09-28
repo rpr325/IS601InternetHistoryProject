@@ -9,7 +9,19 @@ Added / Changed / Removed
     - [Change item 1]
     - [Change item 2]
 
+# Roberto Rutherford 2 - 09/28/2020
+Changed
+- Dot Com and People files
+    - Updated html for image and copy content
+
+Added
+- Dot Com and People files
+    - Video summaries
+    - Image
+    - Navbar
+    
 # Roberto Rutherford 1 - 09/27/2020
+ Added
  - Setup repository
     - Created README.md, changelog.md and .gitignore in WebStorm
     - Shared / Created repository on github - https://github.com/rpr325/IS601InternetHistoryProject.git

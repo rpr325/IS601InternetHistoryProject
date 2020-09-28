@@ -36,9 +36,3 @@ VI. [Part 2 - Internet Search](https://github.com/rpr325/IS601InternetHistoryPro
 VII. [Part 3 - Dot Com Bubble](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/dotcom.html)
 
 VIII. [Part 4 - People](https://github.com/rpr325/IS601InternetHistoryProject/blob/master/people.html)
-
-## Sources Cited
-- [Source 1]
-- [Source 2]
-- [Source 3]
-- [Source 4]
