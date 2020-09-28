@@ -8,3 +8,20 @@ Added / Changed / Removed
 - [Change made]
     - [Change item 1]
     - [Change item 2]
+
+# Roberto Rutherford 1 - 09/27/2020
+ - Setup repository
+    - Created README.md, changelog.md and .gitignore in WebStorm
+    - Shared / Created repository on github - https://github.com/rpr325/IS601InternetHistoryProject.git
+- Setup website
+    - Created index.html file (homepage)
+    -  Enabled Git Pages
+    -  Created web pages and inserted Bootstrap starter code
+        - about.html
+        - team.html
+        - internet.html
+        - browser.html
+        - search.html
+        - dotcom.html
+        - people.html
+
