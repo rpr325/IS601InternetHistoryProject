@@ -3,11 +3,19 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-# [Team Member Name] [Change #] - MM.DD.YYYY
-Added / Changed / Removed
-- [Change made]
-    - [Change item 1]
-    - [Change item 2]
+# Corey Williams 1 - 09/27/2020
+ - Created/ coded HTML(browser, internet, search)
+- updated index.html
+- completed home page 
+    -added nav bar
+    -added card feature
+    -added shortcut buttons
+- adjusted nav bar to highlight when clicked on respective locations
+- adjusted pull down bar
+- created about page
+-inserted pictures on every page in the web page
+-inserted bold fixes
+ 
 
 # Roberto Rutherford 2 - 09/28/2020
 Changed
